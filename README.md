@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ana Ferràndiz</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Front-end Developer, fotógrafa y filmmaker</h3>
 
 - Estoy trabajando como **fotógrafa**
 
